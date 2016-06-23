@@ -28,3 +28,6 @@ bower install 无权限问题:
 打开方式：
 首页url:  运行live-server后会在浏览器中自动打开。
 应用页：点击登录按钮直接登录即可。
+
+####something more
+完整系统代码请前往[项目所在组织](https://github.com/Software-Basic-ZJU/online-payment-system)查看。
